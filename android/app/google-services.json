@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374090990024",
+    "project_id": "dawinreal2001",
+    "storage_bucket": "dawinreal2001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374090990024:android:0e5d9c2be7a4dc61cf80fd",
+        "android_client_info": {
+          "package_name": "com.example.dawintesto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdMsVM3osiMfJWbRTCmyjs5NzyyB-8_kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
