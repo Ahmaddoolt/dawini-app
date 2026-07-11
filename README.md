@@ -1,16 +1,16 @@
-# dawintesto
+# Dawini App
 
-A new Flutter project.
+> **Legacy Flutter client.** This repository preserves an earlier mobile-app codebase for historical context. It is not actively maintained or presented as a current production product.
 
-## Getting Started
+## Status
 
-This project is a starting point for a Flutter application.
+The source may need dependency, Firebase, and environment updates before it can run with current tooling. It remains public as an earlier stage of my Flutter development rather than a current showcase repository.
 
-A few resources to get you started if this is your first Flutter project:
+## Local exploration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For current work, see [akoding.dev](https://akoding.dev).
